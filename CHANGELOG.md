@@ -34,3 +34,10 @@
 * Adding 22 Arabic Font
 * Adding ArabicTextStyle
 * Adding ArabicThemeData
+
+
+
+## 0.0.5
+
+* Fixing ArabicThemeApp issue
+

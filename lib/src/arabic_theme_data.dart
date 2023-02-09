@@ -1,4 +1,3 @@
-import 'package:arabic_font/arabic_font.dart';
 
 class ArabicThemeData {
   static const String package = 'arabic_font';
@@ -15,8 +14,8 @@ class ArabicThemeData {
   ///### ArabicFont
   ///
   /// ### وبعدها اختر نوع الخط الذي تريده
-  static ArabicFont font({
-    required ArabicFont arabicFont,
+  static String font({
+    required String arabicFont,
   }) {
     return arabicFont;
   }
