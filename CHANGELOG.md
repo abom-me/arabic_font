@@ -41,12 +41,3 @@
 
 * Fixing ArabicThemeApp issue
 
-
-## 0.0.5+1
-
-* Format files
-
-
-## 0.0.5+2
-
-* Format files

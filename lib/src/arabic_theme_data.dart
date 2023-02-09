@@ -1,3 +1,4 @@
+
 class ArabicThemeData {
   static const String package = 'arabic_font';
 
