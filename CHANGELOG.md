@@ -41,4 +41,14 @@
 
 * Fixing ArabicThemeApp issue
 
+
+## 0.0.5+1
+
+* Fixing ArabicThemeApp issue
+
+
+## 0.0.5+2
+
+* Fixing ArabicThemeApp issue
+
   
