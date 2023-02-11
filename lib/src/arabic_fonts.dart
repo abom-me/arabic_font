@@ -22,4 +22,5 @@ class ArabicFont {
   static const String tajawal = 'Tajawal';
   static const String dubai = 'Dubai';
   static const String dinNextLTArabic = 'DINNextLTArabic';
+  static const String iBMPlexSansArabic = 'IBM Plex Sans Arabic';
 }

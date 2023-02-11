@@ -2,7 +2,7 @@
 
 
 ####  A Flutter package allows you to add arabic fonts in your flutter projects
-[![pub package](https://img.shields.io/pub/v/arabic_font.svg)](https://pub.dev/packages/arabic_font)
+[![pub package](https://img.shields.io/pub/v/arabic_font.svg)](https://pub.dev/packages/arabic_font)   [![pub package](https://img.shields.io/badge/COUNT%20FONTS-23%20font-yellowgreen)](https://pub.dev/packages/arabic_font)
 
 ------------------
 ## # 👨‍💻 *Developed  by:*
@@ -350,37 +350,6 @@ package: ArabicThemeData.package,
 
   final String arabicFont;
 static const String package='arabic_font';
-
-````
-
-### The Fonts:
-````dart
-/// Fonts Class
-class ArabicFont {
-  ArabicFont._();
-/// Here 22 Different fonts
-  static const String amiri = 'Amiri';
-  static const String arefRuqaa = 'Aref_Ruqaa';
-  static const String aalooBhaijaan = 'Baloo_Bhaijaan';
-  static const String cairo = 'Cairo';
-  static const String changa = 'Changa';
-  static const String elMessiri = 'El_Messiri';
-  static const String narmattan = 'Harmattan';
-  static const String jomhuria = 'Jomhuria';
-  static const String katibeh = 'Katibeh';
-  static const String lalezar = 'Lalezar';
-  static const String lateef = 'Lateef';
-  static const String lemonada = 'Lemonada';
-  static const String mada = 'Mada';
-  static const String markaziText = 'Markazi_Text';
-  static const String mirza = 'Mirza';
-  static const String rakkas = 'Rakkas';
-  static const String reemKufi = 'Reem_Kufi';
-  static const String scheherazade = 'Scheherazade';
-  static const String tajawal = 'Tajawal';
-  static const String dubai = 'Dubai';
-  static const String dinNextLTArabic = 'DINNextLTArabic';
-}
 
 ````
 

@@ -51,4 +51,9 @@
 
 * Fixing ArabicThemeApp issue
 
-  
+
+## 0.0.6
+
+* Adding 'IBM Plex Sans Arabic' font
+
+   
