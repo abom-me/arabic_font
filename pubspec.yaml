@@ -1,6 +1,6 @@
 name: arabic_font
 description: Flutter package allows you to add arabic fonts in your flutter projects
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/abom-me/arabic_font
 issue_tracker: https://github.com/abom-me/arabic_font/issues
 screenshots:
@@ -147,6 +147,6 @@ flutter:
           
     - family: IBM Plex Sans Arabic
       fonts:
-        - asset: assets/fonts/ibm/IBMPlexArabic-Text
+        - asset: assets/fonts/ibm/IBMPlexArabic-Text.ttf
 
 

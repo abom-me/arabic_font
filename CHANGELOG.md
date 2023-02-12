@@ -56,4 +56,9 @@
 
 * Adding 'IBM Plex Sans Arabic' font
 
+
+## 0.0.7
+
+* Fix 'Error: unable to locate asset entry in pubspec.yaml' issue
+
    
