@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b3348b0-865a-4a3c-875c-adf4394832a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Book.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Heavy.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Regular.otf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/arabic_font.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/arabic_font.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/arabic_fonts.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/arabic_fonts.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,23 +39,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/abom/Desktop/flutter projects/arabic_font2-main/assets/fonts/ibm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/abom/Desktop/flutter projects/arabic_font2-main/assets/fonts/avenirـarabic",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/fonts/avenirـarabic" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
       <recent name="$PROJECT_DIR$/assets/fonts/ibm" />
     </key>
   </component>
@@ -55,6 +65,19 @@
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="arabic_font2-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="arabic_font2-main" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -68,6 +91,8 @@
       <workItem from="1675943771059" duration="510000" />
       <workItem from="1676113017212" duration="1545000" />
       <workItem from="1676187500136" duration="808000" />
+      <workItem from="1676200326487" duration="75000" />
+      <workItem from="1677278673357" duration="1430000" />
     </task>
     <servers />
   </component>

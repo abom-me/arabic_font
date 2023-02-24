@@ -1,6 +1,5 @@
 class ArabicFont {
   ArabicFont._();
-
   static const String amiri = 'Amiri';
   static const String arefRuqaa = 'Aref_Ruqaa';
   static const String aalooBhaijaan = 'Baloo_Bhaijaan';
@@ -23,4 +22,5 @@ class ArabicFont {
   static const String dubai = 'Dubai';
   static const String dinNextLTArabic = 'DINNextLTArabic';
   static const String iBMPlexSansArabic = 'IBM Plex Sans Arabic';
+  static const String avenirArabic = "Avenir Arabic";
 }
