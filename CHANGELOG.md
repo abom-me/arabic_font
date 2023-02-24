@@ -66,3 +66,6 @@
 
 ## 0.0.7-dev-0.0.2
 * Adding 'Avenir Arabic' font
+
+## 0.0.7+1
+* Adding 'Avenir Arabic' font
