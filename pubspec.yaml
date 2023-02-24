@@ -151,11 +151,11 @@ flutter:
 
     - family: Avenir Arabic
       fonts:
-        - asset: assets/fonts/avenirـarabic/Avenir_Arabic_Medium.otf
-        - asset: assets/fonts/avenirـarabic/Avenir_Arabic_Book.otf
-        - asset: assets/fonts/avenirـarabic/Avenir_Arabic_Black.otf
-        - asset: assets/fonts/avenirـarabic/Avenir_Arabic_Heavy.otf
-        - asset: assets/fonts/avenirـarabic/Avenir_Arabic_Regular.otf
+        - asset: assets/fonts/avenirـarabic/Avenir-Arabic-Medium.ttf
+        - asset: assets/fonts/avenirـarabic/Avenir-Arabic-Book.ttf
+        - asset: assets/fonts/avenirـarabic/Avenir-Arabic-Black.ttf
+        - asset: assets/fonts/avenirـarabic/Avenir-Arabic-Heavy.ttf
+        - asset: assets/fonts/avenirـarabic/Avenir-Arabic-Regular.ttf
 
 
 

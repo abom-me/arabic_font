@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b3348b0-865a-4a3c-875c-adf4394832a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Book.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Heavy.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Medium.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Regular.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/arabic_font.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/arabic_font.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/arabic_fonts.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/arabic_fonts.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pubignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Book.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Black.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Book.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Heavy.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/avenirـarabic/Avenir_Arabic_Regular.otf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "/Users/abom/Desktop/flutter projects/arabic_font2-main/assets/fonts/avenirـarabic",
@@ -93,6 +101,8 @@
       <workItem from="1676187500136" duration="808000" />
       <workItem from="1676200326487" duration="75000" />
       <workItem from="1677278673357" duration="1430000" />
+      <workItem from="1677280848233" duration="27000" />
+      <workItem from="1677280879924" duration="570000" />
     </task>
     <servers />
   </component>
