@@ -2,7 +2,7 @@
 
 
 ####  A Flutter package allows you to add arabic fonts in your flutter projects
-[![pub package](https://img.shields.io/pub/v/arabic_font.svg)](https://pub.dev/packages/arabic_font)   [![pub package](https://img.shields.io/badge/COUNT%20FONTS-23%20font-yellowgreen)](https://pub.dev/packages/arabic_font)
+[![pub package](https://img.shields.io/pub/v/arabic_font.svg)](https://pub.dev/packages/arabic_font)   [![pub package](https://img.shields.io/badge/COUNT%20FONTS-24%20font-yellowgreen)](https://pub.dev/packages/arabic_font)
 
 ------------------
 ## # 👨‍💻 *Developed  by:*

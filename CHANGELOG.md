@@ -61,11 +61,5 @@
 
 * Fix 'Error: unable to locate asset entry in pubspec.yaml' issue
 
-## 0.0.7-dev-0.0.1
-* Adding 'Avenir Arabic' font 
-
-## 0.0.7-dev-0.0.2
-* Adding 'Avenir Arabic' font
-
-## 0.0.7+1
+## 0.0.8
 * Adding 'Avenir Arabic' font
