@@ -44,7 +44,7 @@ Pubspec changes:
 
 ```
       dependencies:
-        map_location_picker: <last_version>
+        arabic_font: <last_version>
 ```
 ---
 ### Getting Started:

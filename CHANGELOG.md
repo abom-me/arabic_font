@@ -63,3 +63,6 @@
 
 ## 0.0.8
 * Adding 'Avenir Arabic' font
+
+## 0.0.9
+* fixing 
